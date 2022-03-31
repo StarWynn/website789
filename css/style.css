@@ -1,0 +1,409 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#header{
+   
+    
+}
+.container{
+    width:100%;
+}
+.logo-part{
+    width: 16%;
+    float: left;
+    margin-top :0px;
+    padding-left: 1%;
+}
+.menu-part {
+    width: 55%;
+    float: left;
+    
+    
+}
+.menu-part ul {
+    text-align: center;
+    
+    
+}
+.menu-part li {
+    display: inline-block;
+    padding: 0px 5px;
+    
+    
+    
+}
+.menu-part a {
+text-decoration: none;
+padding: 0px 5px;
+color: black;
+border: 2px solid black;
+border-radius: 15px;
+transition: 1s;
+}
+.menu-part a:hover{
+    background-color: aqua;
+}
+.search-part {
+    width: 15%;
+    float: left;
+    font-size: 15px;
+    margin-top: 0px;
+    text-align: end;
+    border: 2px solid black;
+    border-top-left-radius: 15px;
+    transition: 1s;
+    margin-left: 14%;
+}
+.search-part:hover{
+    background-color:gray;
+} 
+.search-part i {
+    text-align: end;
+}
+.contant1{
+    background-image: url(../image/iiimage.webp);
+    padding: 70px 10px;
+    margin-top: 40px;
+    background-size: cover;
+    background-position: center;
+    color:lightgrey;
+    font-size: 20px;
+    width: 100%;
+}
+.containerr h1{
+    font-size: 60px;
+    padding-left: 22%;
+    padding-bottom: 40px;
+    text-transform: uppercase;
+}
+.containerr p{
+    width: 60%;
+    padding-left: 90px;
+}
+.reg1{
+    color:black;
+    background-color:rgb(8, 8, 8);
+    
+    
+    padding-left: 10px;
+    margin-left: 90px;
+    padding-right:5px ;
+    padding-bottom: 5px;
+    text-decoration: none;
+    
+
+}
+.reg1 a{
+    color: white;
+}
+.reg2{
+    color:black;
+    background-color:lightblue;
+    
+    
+    padding: 2px;
+    
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+.reg3{
+    color:black;
+    background-color:aqua;
+    
+    
+    padding: 2px;
+    
+    margin-top: 0px;
+    margin-bottom: 10%;
+}
+.reg2 a{
+    text-decoration: none;
+}
+.reg1 a{
+    text-decoration: none;
+}
+
+#about{
+   padding: 30px 20px;
+   width: 100%;
+   float: left;
+   text-align: center;
+   background-image: url(../image/iimage.webp);
+   background-size: cover;
+   background-position: center;
+}
+.about-writing-part{
+    margin-bottom: 50px;
+    width: 100%;
+    float: left;
+    font-size: 25px;
+    
+}
+.about-writing-part h2{
+    font-size: 70px;
+    text-transform: uppercase;
+}
+.about-writing-part p{
+    width: 60%;
+    margin: auto;
+    
+}
+.about-box-part{
+   width: 90%;
+   float: left;
+   padding-left: 11%;
+}
+.about-box{
+   width:30% ;
+   float: left;
+   margin: 0px 1.5%;
+   background-color:rebeccapurple;
+   color: white;
+}.about-box h2{
+   margin-top: 10px;
+}
+.about-box img{
+    width: 100%;
+    
+}
+.about-box h2{
+
+}
+.about-box p{
+    padding: 10px;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+
+
+
+
+
+#dance{
+  width: 100%;
+  float: left;
+  padding: 5% 10%;
+  background-image: linear-gradient(to bottom right, lightblue,blue);
+}
+.dance-part{
+   width: 100%;
+   float: left;
+   background-image: url(../image/iiiimage.jpg);
+}
+.dance-img-part{
+   width: 50%;
+   float: left;
+
+}
+.dance-writing-part{
+   width: 50%;
+   float: left; 
+   padding: 70px 0px;
+   text-align: center;
+
+   
+}
+.dance-img-part img{
+    width: 100%;
+    float: left;
+}
+.dance-writing-part h1{
+    text-transform: uppercase;
+
+}
+.dance-writing-part p{
+    padding-top: 40px;
+    width: 60%;
+    margin: auto;
+}
+
+#all{
+    width: 100%;
+    float: left;
+    padding: 0px;
+    background-color:lightblue;
+    }
+#slide{
+    
+    padding-top: 5%;
+    width: 100%;
+    float: left;
+    text-align: center;
+    background-image: url(../image/image3.webp);
+    background-size: cover;
+    background-position: center;
+}
+ .slide-writing-part{
+     margin-bottom: 50px;
+     width: 100%;
+     float: left;
+     font-size: 110%;
+     
+ }
+ .slide-writing-part h2{
+     margin-bottom: 2%;
+     font-size: 250%;
+     text-transform: uppercase;
+     color: aliceblue;
+ }
+ .slide-writing-part p{
+     width: 60%;
+     margin: auto;
+     color: beige;
+     
+ }
+ .slide-box-part{
+    width: 90%;
+    float: left;
+    padding-left: 11%;
+    padding-bottom: 5%;
+ }
+ .slide-box{
+    width:30% ;
+    float: left;
+    margin: 0px 1.5%;
+    background-color:aqua;
+    color: white;
+    padding-bottom: 3%;
+ }
+ .slide-box h2{
+    margin-top: 20%;
+    font-size: 200%;
+    color: rebeccapurple;
+    text-transform: uppercase;
+ }
+ .slide-box a{
+     text-decoration: none;
+ }
+ .slide-box p{
+     padding: 10px;
+     color: blueviolet;
+ }
+.reg3{
+    transition: 1s;
+    margin-bottom: 2%;
+
+}
+.reg3 a{
+    color: rebeccapurple;
+}
+.reg3:hover{
+    background-color: blueviolet;
+}
+
+
+#stat{
+    width: 100%;
+    float: left;
+    text-align: center;
+    margin-top: 1%;
+    background-image: linear-gradient(to bottom right, lightblue,blue);
+    padding-top: 5%;
+    
+}
+.stat-writing-part{
+    text-align: center;
+    width: 100%;
+    float: left;
+}
+.stat-writing-part h2{
+    text-transform: uppercase;
+    padding-bottom: 5%;
+    
+}
+.stat-writing-part p{
+    width: 60%;
+    margin: auto;
+    padding-bottom: 5%;
+}
+.stat-box-part{
+    width: 100%;
+    float: left;
+}    
+.stat-box{ 
+    width:30% ;
+    float: left;
+    margin: 0px 1.5%;
+    padding-bottom: 5%;
+}
+.stat-box h2{
+    
+}
+.stat-box p{
+   padding-top: 2%;
+}
+.contant11{
+    padding-top: 5%;
+    width: 100%;
+    float: left;
+    text-align: center;
+    background-image: linear-gradient(to left, gray,lightgrey);
+    
+}
+.containerrr{
+
+}
+.containerrr h1{
+    text-transform: uppercase;
+    font-size: 170%;
+    padding-bottom: 5%;
+}
+.containerrr p{
+    width: 60%;
+    margin: auto;
+    padding-bottom: 5%;
+}
+.contant11 input{
+    background-color: lightblue;
+}
+.contant11 button{
+    background-color: gray;
+    margin-bottom: 5%;
+}
+
+
+#ending{
+    width: 100%;
+    float: left;
+    text-align: center;
+    margin-top: 5%;
+    background-image: linear-gradient(to bottom right, lightblue,blue);
+    
+}
+.ending-box-part{
+    width: 100%;
+    float: left;
+}
+.ending-box-size{
+    width:49% ;
+    float: left;
+    margin: 0px 1.5%;
+    padding-bottom: 5%;
+}
+.ending-box{
+    width:13% ;
+    float: left;
+    margin: 0px 1.5%;
+    padding-bottom: 5%;
+}
+.ending-box-size h2{
+    color: gray;
+    padding-bottom: 3%;
+}
+.ending-box h2{
+  color: gray;
+  padding-bottom: 7%;
+
+}
+.ending-box p{
+
+}
